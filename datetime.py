@@ -20,4 +20,4 @@ d = {'datestamp': new, 'token':"532856fe705c8a089d3e4b8213327687"}
 print(d)
 
 
-r = requests.post('http://challenge.code2040.org/api/dating/validate', json=d)
+r = requests.post('http://challenge.code2040.org/api/dating/validate', json = d)

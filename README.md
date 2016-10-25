@@ -1,2 +1,2 @@
 # code2040
-My repository for code challenges
+My repository for coding challenges
